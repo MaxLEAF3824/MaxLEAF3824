@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxLEAF3824
 - 👀 I’m interested in Knowledge Enhanced NLP
-- 🌱 I’m currently pursuing a PhD at fdu
+- 🌱 I’m currently pursuing my PhD at fdu
 - 📫 How to reach me: yqguo22@m.fudan.edu.cn
 
 <!---
